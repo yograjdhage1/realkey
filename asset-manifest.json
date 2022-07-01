@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/realkey/static/css/main.09e68f79.css",
+    "main.js": "/realkey/static/js/main.08a8ddf0.js",
+    "static/media/appkey.png": "/realkey/static/media/appkey.60d539d780ce4adaa053.png",
+    "static/media/hero.jpg": "/realkey/static/media/hero.2315e391ece661d7b3f1.jpg",
+    "static/media/ajentfinder.png": "/realkey/static/media/ajentfinder.d0aea97c2efd3ee013da.png",
+    "static/media/homefinder.png": "/realkey/static/media/homefinder.99b472c121906f7fbffb.png",
+    "static/media/morgage.png": "/realkey/static/media/morgage.15700338c05117b65fe7.png",
+    "static/media/android.png": "/realkey/static/media/android.fbcba2f3e0c218c15a41.png",
+    "static/media/apple.png": "/realkey/static/media/apple.6c2a28a5d1f40c75c6f0.png",
+    "static/media/thumbnail.png": "/realkey/static/media/thumbnail.a226745f4be834d373f4.png",
+    "index.html": "/realkey/index.html",
+    "main.09e68f79.css.map": "/realkey/static/css/main.09e68f79.css.map",
+    "main.08a8ddf0.js.map": "/realkey/static/js/main.08a8ddf0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09e68f79.css",
+    "static/js/main.08a8ddf0.js"
+  ]
+}
